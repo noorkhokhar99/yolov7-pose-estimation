@@ -29,6 +29,7 @@ pip install -r requirements.txt
 
 - Download yolov7 pose estimation weights from [link](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-pose.pt) and move them to the working directory {yolov7-pose-estimation}
 
+```
 
 - Run the code with mentioned command below.
 ```
