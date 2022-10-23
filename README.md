@@ -6,7 +6,7 @@
 ```
 - Clone the repository.
 ```
-git clone https://github.com/RizwanMunawar/yolov7-pose-estimation.git
+git clone https://github.com/noorkhokhar99/yolov7-pose-estimation.git
 ```
 
 - Goto the cloned folder.
